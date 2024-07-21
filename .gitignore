@@ -19,3 +19,6 @@ bld/
 
 .vs/
 .vscode/
+
+cmake-build-*/
+.idea/
